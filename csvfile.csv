@@ -1,0 +1,12 @@
+empno             ,empname,dept,DOB,salary
+1,aslam,sales,13/05/01,20000
+2,mahin ,sales,13/05/01,10000
+3,vishal,HR,13/05/01,20000
+4,manikuttan,HR,13/05/01,30000
+5,jagan,sales,13/05/01,15000
+6,abhijith,sales,13/05/01,15000
+7,anandhu,manager,13/05/01,25000
+8,shibu,manager,13/05/01,40000
+9,ikka,HR,13/05/01,27000
+10,hijas,HR,13/05/02,500000
+11,rashid,manager,13/05/00,400000
