@@ -1,4 +1,5 @@
-import math
-r=float(input("enter the radius of the circle: "))
-area=math.pi* r * r
-print("%.2f" %area)
+from math import pi
+def CircleArea(r):
+    return (pi*r*r)
+def CirclePerimeter(r):
+    return (2*pi*r)
